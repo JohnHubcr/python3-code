@@ -8,3 +8,5 @@
 小爬虫爬IP代理池——[Spider_Proxy](./Spider_Proxy/)
 
 小爬虫爬站点外链——[Spider_Url](./Spider_Url)
+
+基于Flask+Markdown的简易博客系统——[YiBo](./YiBo)
